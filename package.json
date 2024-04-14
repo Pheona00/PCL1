@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.1.3",
+<<<<<<< HEAD
     "@expo/vector-icons": "^14.0.0",
     "@react-navigation/bottom-tabs": "^6.5.20",
     "@react-navigation/drawer": "^6.6.15",
     "@react-navigation/native": "^6.1.17",
+=======
+>>>>>>> d502051e41debae054b0adc69d4e8e2d39e60152
     "@react-navigation/native-stack": "^6.9.25",
     "@react-navigation/stack": "^6.3.28",
     "expo": "~50.0.13",
